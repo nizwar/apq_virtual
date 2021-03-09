@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Media
+
+### Title
+panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0000
+panorama_1F2219E5_16CD_9956_41B3_BD3AA3CC9C0A.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0001
+panorama_1F2460EC_16CD_A756_419A_18FE8EA29840.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0003
+panorama_1F2467C1_16CD_A94E_41A4_7CB3CB91C3C8.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0005
+panorama_1F247E85_16CD_BBD6_41AF_2BF6C18C3FD5.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0007
+panorama_1F24845F_16CD_AF72_41B1_34995F09336B.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0004
+panorama_1F248B13_16CD_BAF2_4194_0A6BC80A38C1.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0006
+panorama_1F248D45_16CD_9956_41AD_FEDE80499476.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0002

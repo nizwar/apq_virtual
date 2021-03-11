@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>APQ</title>
+    <title>Untitled 2</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
-    <link rel="preload" href="locale/en.txt?v=1615297659315" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1615297659315" as="script"/>
-	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/r/1/0_0.jpg?v=1615297659315" as="image"/>
-	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/l/1/0_0.jpg?v=1615297659315" as="image"/>
-	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/u/1/0_0.jpg?v=1615297659315" as="image"/>
-	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/d/1/0_0.jpg?v=1615297659315" as="image"/>
-	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/f/1/0_0.jpg?v=1615297659315" as="image"/>
-	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/b/1/0_0.jpg?v=1615297659315" as="image"/>
+    <link rel="preload" href="locale/en.txt?v=1615451572667" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1615451572667" as="script"/>
+	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/r/1/0_0.jpg?v=1615451572667" as="image"/>
+	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/l/1/0_0.jpg?v=1615451572667" as="image"/>
+	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/u/1/0_0.jpg?v=1615451572667" as="image"/>
+	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/d/1/0_0.jpg?v=1615451572667" as="image"/>
+	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/f/1/0_0.jpg?v=1615451572667" as="image"/>
+	<link rel="preload" href="media/panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D_0/b/1/0_0.jpg?v=1615451572667" as="image"/>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#FFFFFF"/>
-    <script src="lib/tdvplayer.js?v=1615297659315"></script>
-    <script src="script.js?v=1615297659315"></script>
+    <script src="lib/tdvplayer.js?v=1615451572667"></script>
+    <script src="script.js?v=1615451572667"></script>
     <script type="text/javascript">
         (function()
         {
             var deviceType = TDV.PlayerAPI.mobile ? 'mobile' : 'general';
-            var devicesUrl = {"general":"script_general.js?v=1615297659315"};
+            var devicesUrl = {"general":"script_general.js?v=1615451572667"};
             var url = deviceType in devicesUrl ? devicesUrl[deviceType] : devicesUrl['general'];
             if(typeof url == "object") {
                 var orient = TDV.PlayerAPI.getOrientation();
@@ -45,11 +45,11 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1615297659315');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1615297659315');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1615297659315');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1615451572667');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1615451572667');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1615451572667');
 
-            var devicesUrl = {"general":"script_general.js?v=1615297659315"};
+            var devicesUrl = {"general":"script_general.js?v=1615451572667"};
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -315,7 +315,7 @@
     
 </head>
 <body>
-    <div id="preloadContainer"><div style="z-index: 4; position: absolute; left: 0%; top: 50%; width: 100.00%; height: 10.00%"><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.6666666666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">Please wait...</SPAN></DIV></div></div></div>
+    <div id="preloadContainer"><div style="z-index: 4; position: absolute; left: 0%; top: 50%; width: 100.00%; height: 10.00%"><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.6666666666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">Loading virtual tour. Please wait...</SPAN></DIV></div></div></div>
     <div id="viewer"></div>
 </body>
 </html>

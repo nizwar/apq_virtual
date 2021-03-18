@@ -3,18 +3,49 @@
 ## Tour
 
 ### Description
+tour.description = Virtual Event Pertamina
 
 ### Title
-tour.name = Untitled 2
+tour.name = APQ Pertamina
 
 ## Media
 
 ### Title
-panorama_1DBE15FB_16CD_E932_41AC_E74ED221910D.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0000
-panorama_1F2219E5_16CD_9956_41B3_BD3AA3CC9C0A.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0001
-panorama_1F2460EC_16CD_A756_419A_18FE8EA29840.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0003
-panorama_1F2467C1_16CD_A94E_41A4_7CB3CB91C3C8.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0005
-panorama_1F247E85_16CD_BBD6_41AF_2BF6C18C3FD5.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0007
-panorama_1F24845F_16CD_AF72_41B1_34995F09336B.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0004
-panorama_1F248B13_16CD_BAF2_4194_0A6BC80A38C1.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0006
-panorama_1F248D45_16CD_9956_41AD_FEDE80499476.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0002
+map_20964763_35C0_F087_41B6_446022F7F49F.label = Directional Maps_REV [Recovered]-01
+panorama_243141F6_3441_7381_41B6_516A23B97311.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0000
+panorama_2D120319_35C0_D083_41BE_C85DDF961630.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0007
+panorama_3B2D36E9_3443_7183_41BF_B1C6075140CE.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0004
+panorama_3BB39342_3443_3081_418F_19C2ECB7AA88.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0003
+panorama_3BB4A2C3_3440_D187_41B1_7070C3D59085.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0005
+panorama_3BB51E51_3443_5083_41B3_07BE1708D4C5.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0001
+panorama_3BB67A17_3443_F08F_4198_1B898285ABBF.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0002
+panorama_3BD5D3F3_3441_3787_41C9_501E7A061EFF.label = Preview per 6 Maret_VR PANORAMIC - .RGB_color.0006
+
+## Action
+
+### URL
+LinkBehaviour_482B6EE5_43C0_B3F5_41C3_59E24C22A998.source = https://apqa2021.pertamina.com/panoramic/booth/blue-ppn
+LinkBehaviour_4C45A949_43C1_9E3D_41D0_AF8A803ECD53.source = https://apqa2021.pertamina.com/panoramic/booth/white-rucilacap
+LinkBehaviour_4C666D92_43C0_B62F_41AD_C7853B83438E.source = https://apqa2021.pertamina.com/panoramic/booth/white-rubalongan
+LinkBehaviour_4D154D60_43C1_96EB_41A7_856B072DC946.source = https://apqa2021.pertamina.com/panoramic/booth/red-pepc
+LinkBehaviour_4D1FA0FE_43C3_6FD7_41B2_28569AE565D9.source = https://apqa2021.pertamina.com/panoramic/booth/green-direknontek
+LinkBehaviour_4D221709_43C0_923D_41D0_CD8901737F1C.source = https://apqa2021.pertamina.com/panoramic/booth/white-rudumai
+LinkBehaviour_4D46FD84_43C0_962B_41CB_C12CDF03E324.source = https://apqa2021.pertamina.com/panoramic/booth/white-rubalikpapan
+LinkBehaviour_4D4A0EBD_43C0_B255_41CE_B5C73B18276C.source = https://apqa2021.pertamina.com/panoramic/booth/red-phi
+LinkBehaviour_4D6D3609_43C1_923D_41AE_2A16A3AFEC71.source = https://apqa2021.pertamina.com/panoramic/booth/green-pertagas
+LinkBehaviour_4D72C499_43C1_F65D_41D0_6F67DDDA401F.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regkalimantan
+LinkBehaviour_4DA93B4A_43C0_B23F_41C8_4649A94C4504.source = https://apqa2021.pertamina.com/panoramic/booth/red-pep
+LinkBehaviour_4DC9810A_43C0_EE3F_417B_34927405823E.source = https://apqa2021.pertamina.com/panoramic/booth/red-pep
+LinkBehaviour_4DCE95E8_43C1_91FB_41BE_1B590AB20578.source = https://apqa2021.pertamina.com/panoramic/booth/green-ptk
+LinkBehaviour_4DE86A6E_43C1_92F7_41C4_2FC16F1813D4.source = https://apqa2021.pertamina.com/panoramic/booth/red-pdsi
+LinkBehaviour_4DF18104_43C1_6E2B_41BC_72C0908F8350.source = https://apqa2021.pertamina.com/panoramic/booth/red-piep
+LinkBehaviour_4E02E7FB_43C1_71DD_41BD_7C3E8962E350.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regjbt
+LinkBehaviour_4E0513C6_43C1_7237_41B2_A4854A95EB76.source = https://apqa2021.pertamina.com/panoramic/booth/white-ruplaju
+LinkBehaviour_4E42E5DA_43C1_91DF_41CE_FF2E612D052A.source = https://apqa2021.pertamina.com/panoramic/booth/red-phe
+LinkBehaviour_4E5D0FAC_43C0_927B_41A0_AC6D4153747B.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regsumbagut
+LinkBehaviour_4E6EE94F_43C7_9E35_4195_CCA06FD851C1.source = https://apqa2021.pertamina.com/panoramic/booth/red-elnusa
+LinkBehaviour_4E73F670_43C0_F2EB_41AD_0C6C68AD52A8.source = https://apqa2021.pertamina.com/panoramic/booth/red-elnusa
+LinkBehaviour_4E86FFC9_43C1_B23D_4178_3863964DB471.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regptpr
+LinkBehaviour_4EDB35B7_43C0_B655_41AF_7FF94D8C2A84.source = https://apqa2021.pertamina.com/panoramic/booth/green-pge
+LinkBehaviour_4F78DACE_43C0_9237_41D0_5678119F2133.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regjatim
+LinkBehaviour_4FD323ED_43C1_B1F5_41C9_E90E3151B37D.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regjbb

@@ -24,6 +24,12 @@ panorama_3BD5D3F3_3441_3787_41C9_501E7A061EFF.label = Preview per 6 Maret_VR PAN
 ## Action
 
 ### URL
+LinkBehaviour_443CCFC5_4981_D2C2_4181_31FF16D5B0E9.source = https://apqa2021.pertamina.com/panoramic/booth/blue-ptpr
+LinkBehaviour_4649282B_498F_BD46_417B_74BF8B557673.source = https://apqa2021.pertamina.com/panoramic/booth/info-lounge
+LinkBehaviour_4681DD06_498F_574E_41A3_DA93D78B647E.source = https://apqa2021.pertamina.com/panoramic/booth/photo-booth
+LinkBehaviour_46D4001B_498E_AD46_41C4_5391FE6C7C05.source = https://apqa2021.pertamina.com/panoramic/booth/ip-expo
+LinkBehaviour_47C08ED3_4981_B2C6_4190_5DC2D0CD34D2.source = https://apqa2021.pertamina.com/panoramic/booth/psc
+LinkBehaviour_47DCA0E0_4981_6EC2_41D1_8E58302179C2.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regkalimantan
 LinkBehaviour_482B6EE5_43C0_B3F5_41C3_59E24C22A998.source = https://apqa2021.pertamina.com/panoramic/booth/blue-ppn
 LinkBehaviour_4C45A949_43C1_9E3D_41D0_AF8A803ECD53.source = https://apqa2021.pertamina.com/panoramic/booth/white-rucilacap
 LinkBehaviour_4C666D92_43C0_B62F_41AD_C7853B83438E.source = https://apqa2021.pertamina.com/panoramic/booth/white-rubalongan
@@ -45,7 +51,7 @@ LinkBehaviour_4E42E5DA_43C1_91DF_41CE_FF2E612D052A.source = https://apqa2021.per
 LinkBehaviour_4E5D0FAC_43C0_927B_41A0_AC6D4153747B.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regsumbagut
 LinkBehaviour_4E6EE94F_43C7_9E35_4195_CCA06FD851C1.source = https://apqa2021.pertamina.com/panoramic/booth/red-elnusa
 LinkBehaviour_4E73F670_43C0_F2EB_41AD_0C6C68AD52A8.source = https://apqa2021.pertamina.com/panoramic/booth/red-elnusa
-LinkBehaviour_4E86FFC9_43C1_B23D_4178_3863964DB471.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regptpr
+LinkBehaviour_4E86FFC9_43C1_B23D_4178_3863964DB471.source = https://apqa2021.pertamina.com/panoramic/booth/blue-ptpr
 LinkBehaviour_4EDB35B7_43C0_B655_41AF_7FF94D8C2A84.source = https://apqa2021.pertamina.com/panoramic/booth/green-pge
 LinkBehaviour_4F78DACE_43C0_9237_41D0_5678119F2133.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regjatim
 LinkBehaviour_4FD323ED_43C1_B1F5_41C9_E90E3151B37D.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regjbb

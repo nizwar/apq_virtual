@@ -25,6 +25,8 @@ panorama_3BD5D3F3_3441_3787_41C9_501E7A061EFF.label = Preview per 6 Maret_VR PAN
 
 ### URL
 LinkBehaviour_443CCFC5_4981_D2C2_4181_31FF16D5B0E9.source = https://apqa2021.pertamina.com/panoramic/booth/blue-ptpr
+LinkBehaviour_44A4FF29_49AF_FED2_41B1_94DAD8DCA320.source = https://apqa2021.pertamina.com/panoramic/booth/blue-regjbb
+LinkBehaviour_45D20B7D_4981_53C2_41BE_D823D9CB6185.source = https://apqa2021.pertamina.com/panoramic/birdview
 LinkBehaviour_4649282B_498F_BD46_417B_74BF8B557673.source = https://apqa2021.pertamina.com/panoramic/booth/info-lounge
 LinkBehaviour_4681DD06_498F_574E_41A3_DA93D78B647E.source = https://apqa2021.pertamina.com/panoramic/booth/photo-booth
 LinkBehaviour_46D4001B_498E_AD46_41C4_5391FE6C7C05.source = https://apqa2021.pertamina.com/panoramic/booth/ip-expo
